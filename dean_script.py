@@ -37,4 +37,3 @@ words = words.replace(']','')
 words = words.replace('\\n','')
 
 print(words) 
-
